@@ -6,6 +6,7 @@ export default function Player(name, score, turn) {
 
 Player.prototype.addScore = function(totalRollPoints) {
   this.score += totalRollPoints;
+  return this.score;
 };
 
 Player.prototype.winCondition = function() {

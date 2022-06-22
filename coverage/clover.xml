@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655937033730" clover="3.2.0">
-  <project timestamp="1655937033731" name="All files">
-    <metrics statements="9" coveredstatements="5" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1" elements="14" coveredelements="6" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
-    <file name="player.js" path="C:\Users\Sandra\Desktop\pig-dice-MB\src\player.js">
-      <metrics statements="9" coveredstatements="5" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+<coverage generated="1655940598621" clover="3.2.0">
+  <project timestamp="1655940598621" name="All files">
+    <metrics statements="14" coveredstatements="9" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="3" elements="21" coveredelements="12" complexity="0" loc="14" ncloc="14" packages="1" files="2" classes="2"/>
+    <file name="dice.js" path="C:\Users\Sandra\Desktop\pig-dice-MB\src\dice.js">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+    </file>
+    <file name="player.js" path="C:\Users\Sandra\Desktop\pig-dice-MB\src\player.js">
+      <metrics statements="10" coveredstatements="7" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
-      <line num="8" count="0" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
-      <line num="13" count="0" type="stmt"/>
-      <line num="15" count="0" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
     </file>
   </project>
 </coverage>

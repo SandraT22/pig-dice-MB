@@ -10,3 +10,7 @@ describe('Player', () => {
   }); 
 });
 
+test('should correctly add the total roll points to the score', () => {
+  const player1 = new Player("player-1", 6, true);
+  expect(player1.addScore(20)).toEqual(26);
+});

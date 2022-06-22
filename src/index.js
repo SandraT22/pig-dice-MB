@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css';
 import { Player } from './player.js'
 import { Dice } from './dice.js'
+import { quitTurn } from './quitTurn.js'
 
 // UI Logic —————————
 
